@@ -1,0 +1,14 @@
+Oscar Törnquist 930308-5550
+Emil Rosell     941229-7336
+
+
+Sökvägar:
+    Bildfiler ska ligga i en undermapp "Textures/"
+    bakgrund -> "Textures/bg.png"
+    player   -> "Textures/UFO-Icon.png"
+    enemy    -> "Textures/Enemy-icon.png"
+
+    För kanonkulorna (Bullets) så är sökvägen -> "Textures/bullet.png"
+
+Spelet går ut på att träffa motståndaren som åker upp och ner på motsatta sidan av spelplanen.
+Du styr med upp och ner tangenterna och skjuter kanonkulor på mellanslag.
