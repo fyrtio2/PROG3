@@ -1,6 +1,3 @@
-//
-// Created by Oscar Törnquist on 2017-12-20.
-//
 
 #ifndef GAME_SYSTEM_H
 #define GAME_SYSTEM_H

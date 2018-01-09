@@ -1,6 +1,4 @@
-//
-// Created by Oscar Törnquist on 2017-12-26.
-//
+
 
 #ifndef GAME_BULLET_H
 #define GAME_BULLET_H

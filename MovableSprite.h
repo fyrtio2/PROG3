@@ -1,6 +1,4 @@
-//
-// Created by Oscar Törnquist on 2017-12-23.
-//
+
 
 #ifndef GAME_MOVABLESPRITE_H
 #define GAME_MOVABLESPRITE_H

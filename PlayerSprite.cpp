@@ -1,6 +1,4 @@
-//
-// Created by Oscar Törnquist on 2017-12-25.
-//
+
 
 #include "PlayerSprite.h"
 

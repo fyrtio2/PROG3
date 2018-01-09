@@ -1,6 +1,3 @@
-//
-// Created by Oscar Törnquist on 2017-12-25.
-//
 
 #ifndef GAME_PLAYERSPRITE_H
 #define GAME_PLAYERSPRITE_H

@@ -1,6 +1,4 @@
-//
-// Created by Oscar Törnquist on 2017-12-20.
-//
+
 
 #ifndef GAME_GAMEENGINE_H
 #define GAME_GAMEENGINE_H

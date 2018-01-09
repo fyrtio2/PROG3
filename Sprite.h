@@ -1,6 +1,4 @@
-//
-// Created by Oscar Törnquist on 2017-12-20.
-//
+
 
 #ifndef GAME_SPRITE_H
 #define GAME_SPRITE_H

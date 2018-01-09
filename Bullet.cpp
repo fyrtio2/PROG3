@@ -1,6 +1,3 @@
-//
-// Created by Oscar Törnquist on 2017-12-26.
-//
 
 #include "Bullet.h"
 
